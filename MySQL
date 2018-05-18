@@ -1,0 +1,11 @@
+#sudo apt-get install mysql-server 
+
+#step1
+sudo apt-get install mysql-server
+#step2
+root password:password04
+#step3
+cmd: 
+1.mysql -u root -p
+2.password04
+#step4
